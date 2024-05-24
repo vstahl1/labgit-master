@@ -19,7 +19,7 @@ class ButtonCloser extends WindowAdapter
 	System.out.println("Application exiting");
 	System.exit(0);
     }
-}
+} 
 
 public class ButtonFrame extends JFrame
 {
